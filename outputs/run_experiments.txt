@@ -1,0 +1,4 @@
+targets with 2 <= N <= 40: 15912
+ordered decompositions found: 14865240
+minimum of R: 8
+maximum of R: 2602
