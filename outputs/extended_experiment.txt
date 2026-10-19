@@ -1,0 +1,5 @@
+minimal smaller prime norm needed, 2 <= N <= 150:
+  2: 166800 targets
+  3: 56136 targets
+  5: 624 targets
+total: 223560

@@ -1,0 +1,2 @@
+Theorem 9.6 verified: R(alpha) = 8 on all 24 targets of norm 2
+Theorem 11.5 census verified: 24 sigma_odd(2m) at every norm 18m, m=1..8
